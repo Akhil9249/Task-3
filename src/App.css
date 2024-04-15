@@ -1,0 +1,76 @@
+
+.deletebtn{
+  margin-left: 10px;
+  border: none;
+}
+
+.btn:focus{
+  border: none;
+  outline: none;
+}
+.datadiv{
+  width: 200px; 
+  /* background-color: #aa5d04; */
+}
+.datadivmain{
+  display: flex;
+  margin-bottom: 5px;
+  border: solid 1px;
+}
+.maindiv{
+  width: 100%;
+  display: flex;
+  /* justify-content: space-around; */
+}
+
+/* ************** Accordion ************** */
+
+.Accordion{
+  width: 500px;
+  height: 450px;
+  border: solid 2px;
+  
+}
+
+.maindiv{
+  margin-left: 300px;
+  /* border: solid 2px olive; */
+}
+.main-left{
+  margin-right: 20px;
+  border: solid 1px;
+}
+.head{
+  display: flex;
+  justify-content: space-between;
+}
+
+.content{
+  border: solid 1px ;
+  margin-bottom: 5px;
+  
+}
+.contentSub{
+  border: solid 1px ;
+
+  height: 30px;
+  padding-bottom: 20px;
+
+}
+.image{
+  width: 30px;
+  height: 30px;
+  
+}
+
+.btn{
+  border: none;
+}
+.btn:focus{
+  border: none;
+  outline: none;
+}
+.heading{
+  text-align: center;
+
+}
